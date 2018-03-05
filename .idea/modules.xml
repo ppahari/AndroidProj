@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidProj.iml" filepath="$PROJECT_DIR$/AndroidProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contactapp/contactapp.iml" filepath="$PROJECT_DIR$/contactapp/contactapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampledb/sampledb.iml" filepath="$PROJECT_DIR$/sampledb/sampledb.iml" />
+    </modules>
+  </component>
+</project>
